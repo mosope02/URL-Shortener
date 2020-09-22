@@ -7,6 +7,7 @@ main {
   background-color: #0087de;
   height: 900px;
   text-align: center;
+  width: 100%;
 }
 
 h1 {
@@ -28,7 +29,7 @@ h1 {
 }
 
 .container {
-  width: 400px;
+  width: 100%;
   margin: auto;
   text-align: center;
 }
@@ -79,6 +80,7 @@ h1 {
 
 #responseField {
   min-width: 191px;
+  width: 80%;
   min-height: 120px;
   border: solid 2px #ffffff;
   margin: auto;

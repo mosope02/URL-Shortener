@@ -1,5 +1,5 @@
 // Information to reach API
-const apiKey = '$API_KEY_HERE';
+const apiKey = ${{secrets.API_KEY}};
 const url = 'https://api.rebrandly.com/v1/links';
 
 
